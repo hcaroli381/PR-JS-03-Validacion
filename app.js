@@ -22,7 +22,7 @@ function validacionNombreApellido(nombreParameter) {
 };
 
 
-function validacionNombre = (validacionNombreApellido(nombre));
+function validacionNombre(validacionNombreApellido(nombre));
 
 
 
